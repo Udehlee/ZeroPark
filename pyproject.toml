@@ -1,0 +1,16 @@
+[project]
+name = "zeropark"
+version = "0.1.0"
+description = "An implementation of a zero-search autonomous parking system using imitation learning and deep reinforcement learning to park vehicles efficiently without searching for a slot"
+authors = [
+    {name = "Udehlee",email = "ritzeepita@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
