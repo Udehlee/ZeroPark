@@ -3,3 +3,6 @@ numpy == >=1.25,<2.0
 matplotlib =>=3.7,<3.10
 torch == 2.9.1
 torchvision == 0.24.1
+airsim==1.8.1
+msgpack-rpc-python
+opencv-contrib-python
